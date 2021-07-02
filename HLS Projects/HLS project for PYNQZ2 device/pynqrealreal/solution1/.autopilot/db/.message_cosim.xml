@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Messages>
+	<Message prefix="[COSIM 212-47]" severity="INFO" keynum="COSIM_TCL_47_1115" content="Using XSIM for RTL simulation." tag=""/>
+	<Message prefix="[COSIM 212-14]" severity="INFO" keynum="COSIM_TCL_14_1084" content="Instrumenting C test bench ..." tag=""/>
+	<Message prefix="[HLS 200-10]" severity="INFO" keynum="HLS_10_1427" content="Running &apos;d:/Vivado/Vivado/2017.4/bin/unwrapped/win64.o/apcc.exe&apos;" tag=""/>
+	<Message prefix="[HLS 200-10]" severity="INFO" keynum="HLS_10_1428" content="For user &apos;CAGLA&apos; on host &apos;desktop-ibr47t1&apos; (Windows NT_amd64 version 6.2) on Thu Jun 24 05:08:56 +0300 2021" tag=""/>
+	<Message prefix="[HLS 200-10]" severity="INFO" keynum="HLS_10_1430" content="In directory &apos;D:/HLS/Quicktake/pynqrealreal/solution1/sim/wrapc&apos;" tag=""/>
+	<Message prefix="[APCC 202-3]" severity="INFO" keynum="APCC_3_1610" content="Tmp directory is apcc_db" tag=""/>
+	<Message prefix="[APCC 202-1]" severity="INFO" keynum="APCC_1_1611" content="APCC is done." tag=""/>
+	<Message prefix="[HLS 200-10]" severity="INFO" keynum="HLS_10_1427" content="Running &apos;d:/Vivado/Vivado/2017.4/bin/unwrapped/win64.o/apcc.exe&apos;" tag=""/>
+	<Message prefix="[HLS 200-10]" severity="INFO" keynum="HLS_10_1428" content="For user &apos;CAGLA&apos; on host &apos;desktop-ibr47t1&apos; (Windows NT_amd64 version 6.2) on Thu Jun 24 05:09:00 +0300 2021" tag=""/>
+	<Message prefix="[HLS 200-10]" severity="INFO" keynum="HLS_10_1430" content="In directory &apos;D:/HLS/Quicktake/pynqrealreal/solution1/sim/wrapc&apos;" tag=""/>
+	<Message prefix="[APCC 202-3]" severity="INFO" keynum="APCC_3_1610" content="Tmp directory is apcc_db" tag=""/>
+	<Message prefix="[APCC 202-1]" severity="INFO" keynum="APCC_1_1611" content="APCC is done." tag=""/>
+	<Message prefix="[COSIM 212-302]" severity="INFO" keynum="COSIM_TCL_302_1177" content="Starting C TB testing ... " tag=""/>
+	<Message prefix="[COSIM 212-333]" severity="INFO" keynum="COSIM_TCL_333_1204" content="Generating C post check test bench ..." tag=""/>
+	<Message prefix="[COSIM 212-12]" severity="INFO" keynum="COSIM_TCL_12_1082" content="Generating RTL test bench ..." tag=""/>
+	<Message prefix="[COSIM 212-322]" severity="INFO" keynum="COSIM_TCL_322_1194" content="Starting VHDL simulation. " tag=""/>
+	<Message prefix="[COSIM 212-15]" severity="INFO" keynum="COSIM_TCL_15_1085" content="Starting XSIM ..." tag=""/>
+	<Message prefix="[COSIM 212-316]" severity="INFO" keynum="COSIM_TCL_316_1188" content="Starting C post checking ..." tag=""/>
+	<Message prefix="[COSIM 212-1000]" severity="INFO" keynum="COSIM_TCL_1000_1070" content="*** C/RTL co-simulation finished: PASS ***" tag=""/>
+</Messages>

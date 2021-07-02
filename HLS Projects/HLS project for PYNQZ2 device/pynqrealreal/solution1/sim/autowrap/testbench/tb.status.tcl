@@ -1,0 +1,1 @@
+set ::AESL_AUTOSIM::gTopFileName ebnn_mnist.c_pre.c.tb.c

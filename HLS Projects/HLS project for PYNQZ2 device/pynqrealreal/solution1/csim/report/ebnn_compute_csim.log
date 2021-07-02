@@ -1,0 +1,50 @@
+INFO: [SIM 2] *************** CSIM start ***************
+INFO: [SIM 4] CSIM will launch GCC as the compiler.
+   Compiling(apcc) ../../../../pynqebnnrealcodes/simple_mnist.c in debug mode
+INFO: [HLS 200-10] Running 'd:/Vivado/Vivado/2017.4/bin/unwrapped/win64.o/apcc.exe'
+INFO: [HLS 200-10] For user 'CAGLA' on host 'desktop-ibr47t1' (Windows NT_amd64 version 6.2) on Thu Jun 24 05:07:14 +0300 2021
+INFO: [HLS 200-10] In directory 'D:/HLS/Quicktake/pynqrealreal/solution1/csim/build'
+INFO: [APCC 202-3] Tmp directory is apcc_db
+INFO: [APCC 202-1] APCC is done.
+   Compiling(apcc) ../../../../pynqebnnrealcodes/ebnn_mnist.c in debug mode
+INFO: [HLS 200-10] Running 'd:/Vivado/Vivado/2017.4/bin/unwrapped/win64.o/apcc.exe'
+INFO: [HLS 200-10] For user 'CAGLA' on host 'desktop-ibr47t1' (Windows NT_amd64 version 6.2) on Thu Jun 24 05:07:17 +0300 2021
+INFO: [HLS 200-10] In directory 'D:/HLS/Quicktake/pynqrealreal/solution1/csim/build'
+In file included from ../../../../pynqebnnrealcodes/ebnn_mnist.c:1:
+../../../../pynqebnnrealcodes/ebnn.h:597:8: warning: extra tokens at end of #endif directive [-Wextra-tokens]
+#endif /EBNN_H/
+       ^
+       //
+1 warning generated.
+In file included from ../../../../pynqebnnrealcodes/ebnn_mnist.c:1:
+../../../../pynqebnnrealcodes/ebnn.h:597:8: warning: extra tokens at end of #endif directive [-Wextra-tokens]
+#endif /EBNN_H/
+       ^
+       //
+1 warning generated.
+INFO: [APCC 202-3] Tmp directory is apcc_db
+INFO: [APCC 202-1] APCC is done.
+   Generating csim.exe
+actual: 5 <> predicted: 3
+actual: 0 == predicted: 0
+actual: 4 == predicted: 4
+actual: 1 == predicted: 1
+actual: 9 == predicted: 9
+actual: 2 == predicted: 2
+actual: 1 == predicted: 1
+actual: 3 == predicted: 3
+actual: 1 == predicted: 1
+actual: 4 == predicted: 4
+actual: 3 == predicted: 3
+actual: 5 == predicted: 5
+actual: 3 == predicted: 3
+actual: 6 == predicted: 6
+actual: 1 == predicted: 1
+actual: 7 <> predicted: 9
+actual: 2 == predicted: 2
+actual: 8 == predicted: 8
+actual: 6 <> predicted: 5
+actual: 9 == predicted: 9
+Accuracy : 85
+INFO: [SIM 1] CSim done with 0 errors.
+INFO: [SIM 3] *************** CSIM finish ***************

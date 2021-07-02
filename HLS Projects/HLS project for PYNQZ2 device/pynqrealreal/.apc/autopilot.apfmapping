@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="mnist_data.h" path="D:\HLS\Quicktake\pynqebnnrealcodes\mnist_data.h"/>
+    <originFiles name="ebnn_mnist.c" path="D:\HLS\Quicktake\pynqebnnrealcodes\ebnn_mnist.c"/>
+    <originFiles name="ebnn.h" path="D:\HLS\Quicktake\pynqebnnrealcodes\ebnn.h"/>
+  </source>
+  <testbench>
+    <originFiles name="simple_mnist.c" path="D:\HLS\Quicktake\pynqebnnrealcodes\simple_mnist.c"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>
