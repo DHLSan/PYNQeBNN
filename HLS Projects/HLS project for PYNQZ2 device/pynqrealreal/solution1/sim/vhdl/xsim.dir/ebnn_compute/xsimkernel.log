@@ -1,7 +1,0 @@
-Running: xsim.dir/ebnn_compute/xsimk.exe -simmode gui -wdb ebnn_compute.wdb -simrunnum 0 -socket 49946
-Design successfully loaded
-Design Loading Memory Usage: 16404 KB (Peak: 16404 KB)
-Design Loading CPU Usage: 77 ms
-Simulation completed
-Simulation Memory Usage: 23232 KB (Peak: 23232 KB)
-Simulation CPU Usage: 895937 ms
