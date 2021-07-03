@@ -11,4 +11,6 @@ Therefore, I increased the stack size of memory in the lscript.ld folder with th
 
 Then I saw that eBNN IP core always returns 0 for except the 1st need to be predicted numbers. The output of the two solution(dividing weightes into 20 parts and increasing memory stack size ) is the same.
 
-This is due to the working principle of the eBNN code. In the code in Testbench, a 1-dimensional array is defined for the output and the weight values are sent respectively for each number estimation.You can find the solution code for this problem in the PYNQeBNN-with-TIMER folder.
+This is due to the working principle of the eBNN code. In the code in Testbench, a 1-dimensional array is defined for the output and the weight values are sent respectively for each number estimation.
+
+You can find the solution code for this problem in the **"PYNQEBNN"** folder.
