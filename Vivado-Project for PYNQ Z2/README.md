@@ -42,9 +42,9 @@ _**FINALLY, the eBNN neural network model is accelerated 1.666 times on hardware
 > 
 > **7.** Click "Run Connection Automation" then click "Run Block Automation".
 > 
-> **8.** Now, In the sources panel, right-click on system.bd, and select Generate Output Products … and click Generate to generate the Implementation, Simulation and Synthesis files for the design.
+> **8.** Now, In the sources panel, right-click on system.bd, and select **Generate Output Products** … and click **Generate** to generate the Implementation, Simulation and Synthesis files for the design.
 > 
-> **9.** Right-click again on system.bd, and select Create HDL Wrapper… to generate the top-level VHDL model. Leave the Let Vivado manager wrapper and auto-update option selected, and click OK. Notice that the VHDL file is already set as the Top module in the design.
+> **9.** Right-click again on system.bd, and select **Create HDL Wrapper**… to generate the top-level VHDL model. Leave the Let Vivado manager wrapper and auto-update option selected, and click OK. Notice that the VHDL file is already set as the Top module in the design.
 > 
 > **10.** Generate bitstream.
 > 
@@ -52,13 +52,11 @@ _**FINALLY, the eBNN neural network model is accelerated 1.666 times on hardware
 > 
 > **12.** Select File > Launch SDK.
 > 
-> **13.** In the SDK
+> **13.** In the SDK you can make tests: source code on ARM processor (software) or hardware (using IP core).
 > 
+> For that, use relevant the "HARDWAREtest" or "SOFTWAREtest" folders.
 
 
-
-  
-  
   
 
 **Block Design on Vivado 2017.4:**
