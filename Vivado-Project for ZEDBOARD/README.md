@@ -15,7 +15,7 @@ As a result,the eBNN code execution time took 0.063199 seconds on PL of Zedboard
 Accuracy of the prediction is fall to 80% on hardware, problem caused because of Vivado HLS.
 
 
-FINALLY, the eBNN neural network model is accelerated 1.624 times on hardware.
+**_FINALLY, the eBNN neural network model is accelerated 1.624 times on hardware._**
 
 
 **Block Design on Vivado 2017.4:**
