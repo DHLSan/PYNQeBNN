@@ -12,7 +12,7 @@
 
 5. **Now, for the Part Selection search "xc7z020clg484-1" and select it as ZEDBOARD Development Board.**
 
-![image](https://user-images.githubusercontent.com/77918562/124340744-06401980-dbc0-11eb-85cd-dae756463a5d.png)
+![image](https://user-images.githubusercontent.com/77918562/124341712-042d8900-dbc7-11eb-8e32-d41ac46b78a6.png)
 
 6. **And then, click finish.**
  
