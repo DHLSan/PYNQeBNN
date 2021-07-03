@@ -1,5 +1,5 @@
 This source code is tested on Vivado 2017.4 and on Zedboard.
-In this folder contains two comparisons on the SDK.
+This folder contains two comparisons on the SDK.
 
 **FIRST ONE:**
 In the SOFTWAREtest folder, eBNN code runs on the ARM Cortex™-A9. 
