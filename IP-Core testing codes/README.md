@@ -1,6 +1,6 @@
-In this folder, you can see the test codes and results to run the eBNN IP core successfully.
+**In this folder, you can see the test codes and results to run the eBNN IP core successfully.**
 
-The generated real code is located in the "PYNQEBNN" folder.
+**The generated real code is located in the "PYNQEBNN" folder.**
 
 eBNN neural network architecure predicts uknown data from known training data.
 
