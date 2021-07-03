@@ -2,13 +2,15 @@
 
 **This folder contains two comparisons on the SDK.**
 
-**FIRST ONE:**
+- **FIRST ONE:**
+
 In the SOFTWAREtest folder, eBNN code runs on the ARM Cortex™-A9. 
 So the execution time of the eBNN code is found without using hardware.
 As a result,the eBNN code execution time took 0.102627 seconds on the ARM Cortex™-A9.
 Accuracy of the prediction is 85% in pure taken eBNN code.
 
-**SECOND ONE:**
+- **SECOND ONE:**
+
 In the HARDWAREtest folder,eBNN IP Core core is tested which is produced through Vivado HLS 2017.4 with using eBNN code. 
 So the execution time of the eBNN code is found using hardware.
 As a result,the eBNN code execution time took 0.061621 seconds on PL of Zedboard.
