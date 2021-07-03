@@ -18,5 +18,5 @@ FINALLY, the eBNN neural network model is accelerated 1.624 times on hardware.
 
 
 **Block Design on Vivado 2017.4:**
-![image](https://user-images.githubusercontent.com/77918562/124342343-e57dc100-dbcb-11eb-99b5-9e72b2386422.png)
+![Picture1](https://user-images.githubusercontent.com/77918562/124342368-25dd3f00-dbcc-11eb-988c-3079f412c66a.png)
 
