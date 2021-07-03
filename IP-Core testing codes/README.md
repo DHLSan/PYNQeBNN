@@ -1,5 +1,7 @@
 In this folder, you can see the test codes and results to run the eBNN IP core successfully.
 
+The generated real code is located in the "PYNQEBNN" folder.
+
 eBNN neural network architecure predicts uknown data from known training data.
 
 Unknown data is float train_labels[20] = {5,0,4,1,9,2,1,3,1,4,3,5,3,6,1,7,2,8,6,9}.
