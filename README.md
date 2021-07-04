@@ -1,4 +1,6 @@
-# PYNQeBNN
+# PYNQeBNN  
+
+
 **Hardware accelerator design for embedded binarized neural network (eBNN) on PYNQ platform and its high-level Python integration**
 
 **A repository of my Xilinx Open Hardware 2021 submission including a demo of accelerated eBNN on ZEDBOARD and PYNQ SOC Development Boards, C source code and projects for Vivado HLS and projects for Vivado.**
