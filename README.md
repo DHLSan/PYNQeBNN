@@ -12,7 +12,7 @@
 
 - **Participant:** Çağla ŞAHİNOĞLU
 
-- **Participant e-mail:** caglaasahinoglu@gmail.com_
+- **Participant e-mail:** caglaasahinoglu@gmail.com
 
 - **Supervisor name:** Asst. Prof. İsmail SAN
 
