@@ -55,6 +55,9 @@ _**FINALLY, the eBNN neural network model is accelerated 1.666 times on hardware
 > **13.** In the SDK you can make tests: source code on ARM processor (software) or hardware (using IP core).
 > 
 > For that, use relevant the "HARDWAREtest" or "SOFTWAREtest" folders.
+> 
+> Remainder: Set the jumper on the jtag in order to boot the PYNQ Z2 board via vivado.
+ 
 
 
   
