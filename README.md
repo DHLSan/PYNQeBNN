@@ -18,7 +18,7 @@
 
 - **Supervisor e-mail:** isan@eskisehir.edu.tr
 
-### Link to Youtube Video: [eBNN on PYNQ Z2](https://www.youtube.com/watch?v=01SmuRRJAoM&ab_channel=CaglaSahinoglu)
+### Link to Youtube Video: [eBNN on PYNQ Z2](https://www.youtube.com/watch?v=01SmuRRJAoM&ab_channel=CaglaSahinoglu) and [eBNN on ZEDBOARD](https://www.youtube.com/watch?v=q7oGGJh5R_U&ab_channel=CaglaSahinoglu)
 
 
 
