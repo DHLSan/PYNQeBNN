@@ -19,7 +19,7 @@
 - **Supervisor e-mail:** isan@eskisehir.edu.tr
 
 ### Link to Youtube Video:
-video koyulacak
+https://www.youtube.com/watch?v=01SmuRRJAoM&ab_channel=CaglaSahinoglu
 
 
 
