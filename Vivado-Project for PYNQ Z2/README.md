@@ -13,7 +13,7 @@ Accuracy of the prediction is 85% in pure taken eBNN code.
 
 In the HARDWAREtest folder,eBNN IP Core core is tested which is produced through Vivado HLS 2017.4 with using eBNN code. 
 So the execution time of the eBNN code is found using hardware.
-As a result,the eBNN code execution time took 0.061621 seconds on PL of Zedboard.
+As a result,the eBNN code execution time took 0.061621 seconds on PL of PYNQ Z2 Board.
 Accuracy of the prediction is fall to 80% on hardware, problem caused because of Vivado HLS.
 
 
