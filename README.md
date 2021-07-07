@@ -35,6 +35,7 @@ Nowadays, studies on deep neural networks are increasing day by day, instead of 
 
 - [ ]  The "Vivado-Project for ZEDBOARD" folder contains information about running eBNN source code on PS of ZEDBOARD and running IP core generated on Vivado HLS on PL in Vivado 2017.4.
 - [ ]  The "How to boot PYNQ Z2" folder contains instructions about booting process.
+- [ ]  The "How to use your IP Core on Jupyter" folder contains instructions about using Jupyter Notebook Environment.
 
 
 
