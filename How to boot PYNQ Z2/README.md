@@ -17,9 +17,9 @@ Thus, a random IP address will be automatically assigned to your PYNQ Z2 board b
   The Red LED will come on immediately to confirm that the board has power. After a few seconds, the Yellow/Green / Done LED will light up to show that the Zynq® device is           operational.After a minute you should see two Blue ** LEDs and four ** Yellow/Green LEDs flash simultaneously. The Blue LEDs will then turn on and off while the Yellow/Green
   LEDs remain on. The system is now booted and ready for use.
   
-  Finally, Browse to http://<board IP address>
+  Finally, Browse to http://< board IP address >
   If your board is configured correctly you will be presented with a login screen. The username is xilinx and the password is also xilinx.
   
-  Now you are ready to Jupyter Notebook environment.
+  Now you are ready to use Jupyter Notebook environment.
   
   
