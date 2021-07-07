@@ -23,7 +23,7 @@ Nowadays, studies on deep neural networks are increasing day by day, instead of 
 
 - **Supervisor e-mail:** isan@eskisehir.edu.tr
 
-### Link to Youtube Video: [eBNN on PYNQ Z2](https://www.youtube.com/watch?v=01SmuRRJAoM&ab_channel=CaglaSahinoglu) and [eBNN on ZEDBOARD](https://www.youtube.com/watch?v=q7oGGJh5R_U&ab_channel=CaglaSahinoglu)
+### Link to Youtube Video: [eBNN on PYNQ Z2](https://www.youtube.com/watch?v=EkTW2x7l_CM&ab_channel=CaglaSahinoglu) and [eBNN on ZEDBOARD](https://www.youtube.com/watch?v=q7oGGJh5R_U&ab_channel=CaglaSahinoglu)
 
 
 
