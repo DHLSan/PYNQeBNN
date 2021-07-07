@@ -18,6 +18,7 @@ Thus, a random IP address will be automatically assigned to your PYNQ Z2 board b
   LEDs remain on. The system is now booted and ready for use.
   
   Finally, Browse to http://< board IP address >
+  
   If your board is configured correctly you will be presented with a login screen. The username is xilinx and the password is also xilinx.
   
   Now you are ready to use Jupyter Notebook environment.
