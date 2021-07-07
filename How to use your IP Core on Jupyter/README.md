@@ -27,7 +27,7 @@
   
   
   
-  Here is my try on Jupyter notebook.
+  _Here is my try on Jupyter notebook._
   
   ![image](https://user-images.githubusercontent.com/77918562/124693399-0bff6d00-dee8-11eb-9b3c-f243c202923a.png)
 
